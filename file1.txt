@@ -1,2 +1,3 @@
 Working on feature 1.
 releasing feature 1.
+fixing bug at hotfix branch.
